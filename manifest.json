@@ -1,0 +1,18 @@
+{
+  "name": "NEXCHAT - Modern Real-time Chat",
+  "short_name": "NEXCHAT",
+  "description": "Aplikasi komunikasi & pesan instan modern dengan pesan teks realtime, rekaman suara, foto, dan privasi penuh.",
+  "start_url": "./?mode=app",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512 any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
